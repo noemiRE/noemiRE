@@ -1,4 +1,10 @@
-## Hi there 👋
+<h3 align="center" wigth="30px"> ## 👋 Hi, I am Noemi Ramos</h1>
+
+<h3 align="center">I am a 24 year old mobile application developer.</h3>
+
+## ⚡ Tech Stack
+* 🗣️ Java | Kotlin | Switf |
+* 📱 Native Android | Native iOS
 
 <!--
 **noemiRE/noemiRE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
